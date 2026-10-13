@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://replylingo-delta.vercel.app/:path*"
+      "destination": "https://replylingo-backend.vercel.app/:path*"
     }
   ]
 }
